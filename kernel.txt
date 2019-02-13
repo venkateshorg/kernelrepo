@@ -1,0 +1,5 @@
+hello hi
+welcome to linux
+have a great day,
+welcome to DevOps
+
